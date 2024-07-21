@@ -46,7 +46,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 > ## Demo Video Link
 
-[Video](https://drive.google.com/file/d/1Fd0-lB7J0sXRTcjiUnohsZTqmVQ7tINB/view?usp=drive_link)
+[Video Link](https://drive.google.com/file/d/1Fd0-lB7J0sXRTcjiUnohsZTqmVQ7tINB/view?usp=drive_link)
 
   > ## Installation
 
